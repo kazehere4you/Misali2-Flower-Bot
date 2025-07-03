@@ -1,0 +1,13 @@
+Pillow>=10.0.0
+requests>=2.31.0
+pycryptodome==3.19.0
+pillow==10.0.1
+psutil==5.9.6
+opencv-python==4.8.1.78
+numpy==1.25.2
+torch==2.1.0
+torchvision==0.16.0
+pydirectinput==1.0.4
+pywin32==306
+shapely==2.0.2
+ultralytics==8.0.206 
